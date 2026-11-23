@@ -1,0 +1,47 @@
+text,category
+Charged twice for my monthly subscription,Billing
+Need an invoice for last month payment,billing
+Refund not received after cancelling plan,BILLING
+Update my credit card details on file,Billing
+Why was I billed an extra $20 fee?,Billing
+Promo code did not apply at checkout,billing
+Download tax receipt for annual renewal,Billing
+Payment failed with error code 402,BILLING
+Switch from monthly to yearly billing cycle,Billing
+Cancel auto-renewal for my team plan,Billing
+Overcharged on my latest statement,billing
+Need a VAT invoice for company accounting,Billing
+Card declined even though funds are available,Billing
+Charged twice for my monthly subscription,Billing
+Need an invoice for last month payment,billing
+Refund requested for accidental upgrade,
+App crashes immediately when opening dashboard,Technical
+API returns 500 internal server error,technical
+Cannot export report to CSV format,TECHNICAL
+Website loading very slowly on Chrome,Technical
+Two-factor authentication SMS code not arriving,Technical
+Webhook integration stopped triggering events,technical
+Dark mode toggle is broken on mobile app,Technical
+File upload fails for PDFs larger than 5MB,TECHNICAL
+Search bar freezes when typing special characters,Technical
+Database sync stuck at 99 percent,Technical
+Error 404 when clicking notification link,technical
+App crashes immediately when opening dashboard,Technical
+API returns 500 internal server error,technical
+,Technical
+Dashboard widgets fail to load metrics,
+Forgot my password and reset link expired,Account
+How do I change my registered email address?,account
+Account locked after too many login attempts,ACCOUNT
+Add three new team members to my workspace,Account
+Delete my account and all personal data,Account
+Cannot log in using Google SSO,account
+Change admin permissions for a user,Account
+Update company profile name and logo,ACCOUNT
+Deactivate former employee access,Account
+Username already taken error during setup,Account
+Merge two duplicate user profiles,account
+Forgot my password and reset link expired,Account
+,Account
+Reset security questions for my login,
+,

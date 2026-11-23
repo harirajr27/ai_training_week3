@@ -1,0 +1,36 @@
+text,category
+Charged twice for my monthly subscription,Billing
+Need an invoice for last month payment,Billing
+Refund not received after cancelling plan,Billing
+Update my credit card details on file,Billing
+Why was I billed an extra $20 fee?,Billing
+Promo code did not apply at checkout,Billing
+Download tax receipt for annual renewal,Billing
+Payment failed with error code 402,Billing
+Switch from monthly to yearly billing cycle,Billing
+Cancel auto-renewal for my team plan,Billing
+Overcharged on my latest statement,Billing
+Need a VAT invoice for company accounting,Billing
+Card declined even though funds are available,Billing
+App crashes immediately when opening dashboard,Technical
+API returns 500 internal server error,Technical
+Cannot export report to CSV format,Technical
+Website loading very slowly on Chrome,Technical
+Two-factor authentication SMS code not arriving,Technical
+Webhook integration stopped triggering events,Technical
+Dark mode toggle is broken on mobile app,Technical
+File upload fails for PDFs larger than 5MB,Technical
+Search bar freezes when typing special characters,Technical
+Database sync stuck at 99 percent,Technical
+Error 404 when clicking notification link,Technical
+Forgot my password and reset link expired,Account
+How do I change my registered email address?,Account
+Account locked after too many login attempts,Account
+Add three new team members to my workspace,Account
+Delete my account and all personal data,Account
+Cannot log in using Google SSO,Account
+Change admin permissions for a user,Account
+Update company profile name and logo,Account
+Deactivate former employee access,Account
+Username already taken error during setup,Account
+Merge two duplicate user profiles,Account
